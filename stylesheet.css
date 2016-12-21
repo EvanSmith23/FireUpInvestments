@@ -7,8 +7,29 @@
 	font-size: 18px;
 	margin: 30px auto 30px auto;
 	padding-bottom: 60px;
-	background : #D3D3D3;
+	background : #C3C3C3;
+}
 
+#Founders {
+
+	background: #D0D0D0;
+	padding: 20px;
+	min-width: 800px;
+	max-width: 950px;
+	margin: auto;
+
+}
+
+#Name {
+
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+.Container-header {
+
+	padding-left: 10px;
+	padding-top: 20px;
 }
 
 .Houses {
@@ -19,6 +40,10 @@
 
 .companyName {
 	color : white;
+}
+
+.bottom {
+    border-bottom: 1px solid black;
 }
 
 .orange-header {
@@ -43,6 +68,10 @@
 	padding : 5px;
 }
 
+footer {
+	background : rgb(200,200,200);
+}
+
 body {
 	background : #DCDCDC;
 }
@@ -50,6 +79,10 @@ body {
 .navbar-inverse {
 
 	border: 1px solid black;
+}
+
+.navbar-brand {
+	color:#C3C3C3;;
 }
 
 
