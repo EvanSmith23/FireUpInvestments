@@ -5,10 +5,8 @@
 	font-family: Verdana, Arial, Sans-Serif;
 	font-weight: 100;
 	font-size: 18px;
-	margin: 30px auto 30px auto;
-	padding-bottom: 60px;
-	background : #C3C3C3;
-}
+	margin: 30px auto;
+	background : #D3D3D3;}
 
 #Founders {
 
@@ -16,27 +14,49 @@
 	padding: 20px;
 	min-width: 800px;
 	max-width: 950px;
-	margin: auto;
+	margin: auto;}
 
-}
+#footer-text {
+
+	min-width: 200px;
+	max-width: 350px;
+	font-family: Verdana, Arial, Sans-Serif;
+	font-weight: 100;
+	font-size: 16px;
+	padding-top : 20px auto;
+	background : #2C2C2C;}
+
+#footer {
+
+	min-width: 900px;
+	max-width: 1050px;
+	font-family: Verdana, Arial, Sans-Serif;
+	font-weight: 100;
+	font-size: 16px;
+	margin: 0px auto;
+	color : white;
+	padding-top: 0px;
+	background : #2C2C2C;}
 
 #Name {
 
 	padding-left: 10px;
-	padding-top: 20px;
-}
+	padding-top: 20px;}
 
 .Container-header {
 
 	padding-left: 10px;
-	padding-top: 20px;
-}
+	padding-top: 20px;}
+
+.houseBlock {
+
+	padding : 15px;
+	background : #E3E3E3;}
 
 .Houses {
 
-	padding : 10px;
-
-}
+	padding : 20px;
+	background : #C3C3C3;}
 
 .companyName {
 	color : white;
@@ -49,35 +69,31 @@
 .orange-header {
 
 	background-color: orange;
-	height : 5px;
-}
+	height : 5px;}
 
 .black-header {
 	background : black;
-	height : 20px;
-}
+	height : 20px;}
 
 .white-header {
 	background : white;
-	height : 100px;
-}
+	height : 100px;}
 
 .Logo {
 	height : 90px;
 	width  : 190px;
-	padding : 5px;
-}
+	padding : 5px;}
+
 
 footer {
-	background : rgb(200,200,200);
+	background : #2C2C2C;
 }
 
 body {
-	background : #DCDCDC;
+	background : #6C6C6C;
 }
 
 .navbar-inverse {
-
 	border: 1px solid black;
 }
 
@@ -85,23 +101,6 @@ body {
 	color:#C3C3C3;;
 }
 
-
-.darkBG {
-	background : #999;
-}
-
-.darkerBG {
-	background : #666;
-}
-
-.darkestBG {
-	background : #333;
-}
-
-
 nav.horizontalNav{		border: 1px solid black;    text-align: center;		background-color: rgb(100,70,70);	}
 	#zillow { color: rgb(230,230,230);}
 	nav.horizontalNav button { border : 50px black;}
-
-
-
